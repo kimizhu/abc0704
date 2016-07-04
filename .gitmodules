@@ -1,0 +1,4 @@
+[submodule "themes for test"]
+	path = abc0704/_themes
+	url = https://github.com/Microsoft/templates.docs.msft
+	branch = master

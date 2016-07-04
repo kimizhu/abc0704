@@ -16,12 +16,14 @@
       {
         "files": [
           "**/*.png",
-          "**/*.jpg"
+          "**/*.jpg",
+		  "_themes/**"
         ],
         "exclude": [
           "**/obj/**",
           "abc0704/**",
-          "**/includes/**"
+          "**/includes/**",
+		  "_themes/DocPacker/**"
         ]
       }
     ],
